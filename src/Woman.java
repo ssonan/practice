@@ -8,7 +8,7 @@ public class Woman {
         this.age = age;
         this.salary= salary;
     }
-
+//はじめまして
     public void setName(String n) {
         this.name = n;
     }
